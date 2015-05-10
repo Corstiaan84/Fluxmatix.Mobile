@@ -1,4 +1,5 @@
 ﻿using System;
+using Newtonsoft.Json.Converters;
 
 namespace Fluxmatix.Mobile.Cache
 {
@@ -6,7 +7,7 @@ namespace Fluxmatix.Mobile.Cache
 	{
 		string Get(string key);
 		void Put(string key, string value);
-		object Get<T>(string key);
+		T Get<T>(string key);
 		void Put<T>(string key, T value);
 		bool ContainsKey (string key);
 		void Clear();
