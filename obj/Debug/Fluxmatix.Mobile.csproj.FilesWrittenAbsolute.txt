@@ -4,3 +4,4 @@
 /Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Reflect.Mobile/Fluxmatix.Mobile/obj/Debug/Fluxmatix.Mobile.dll
 /Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Reflect.Mobile/Fluxmatix.Mobile/obj/Debug/Fluxmatix.Mobile.dll.mdb
 /Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Reflect.Mobile/Fluxmatix.Mobile/bin/Debug/Newtonsoft.Json.dll
+/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Reflect.Mobile/Fluxmatix.Mobile/bin/Debug/NodaTime.dll
