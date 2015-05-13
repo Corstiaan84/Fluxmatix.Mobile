@@ -34,7 +34,7 @@
     <Compile Include="Cache\IMobileCacheStore.cs" />
     <Compile Include="Cache\CacheItem.cs" />
     <Compile Include="Cache\KeyNotFoundException.cs" />
-    <Compile Include="TimesZones.cs" />
+    <Compile Include="SimpleTimesZones.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <ItemGroup>
