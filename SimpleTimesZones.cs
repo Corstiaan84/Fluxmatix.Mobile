@@ -48,7 +48,7 @@ namespace Fluxmatix.Mobile
 			{ 
 				return _zones;
 			}
-		} 
+		}
 	}
 
 	public class SimpleTimeZone
