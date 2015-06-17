@@ -1,0 +1,6 @@
+/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Reflect.Mobile/Fluxmatix.Mobile/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Reflect.Mobile/Fluxmatix.Mobile/bin/Release/Fluxmatix.Mobile.dll.mdb
+/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Reflect.Mobile/Fluxmatix.Mobile/bin/Release/Fluxmatix.Mobile.dll
+/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Reflect.Mobile/Fluxmatix.Mobile/obj/Release/Fluxmatix.Mobile.dll
+/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Reflect.Mobile/Fluxmatix.Mobile/obj/Release/Fluxmatix.Mobile.dll.mdb
+/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Reflect.Mobile/Fluxmatix.Mobile/bin/Release/Newtonsoft.Json.dll
