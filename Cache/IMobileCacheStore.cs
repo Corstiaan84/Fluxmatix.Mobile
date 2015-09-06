@@ -11,6 +11,7 @@ namespace Fluxmatix.Mobile.Cache
 		void Put<T>(string key, T value);
 		bool ContainsKey (string key);
 		void Clear();
+		void RemoveKey (string key);
 	}
 }
 
