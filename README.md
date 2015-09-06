@@ -1,6 +1,6 @@
 # Fluxmatix.Mobile
 
-Fluxmatix.Mobile is a Xamarin library (pcl) and primarily a dependency for ([Fluxmatix.Mobile.iOS](https://github.com/Corstiaan84/Fluxmatix.Mobile.iOS)), providing models, abstractions and a few common non-platform specific tools.
+Fluxmatix.Mobile is a Xamarin library (pcl) and primarily a dependency for [Fluxmatix.Mobile.iOS](https://github.com/Corstiaan84/Fluxmatix.Mobile.iOS), providing models, abstractions and a few common non-platform specific tools.
 
 What's in there:
 
