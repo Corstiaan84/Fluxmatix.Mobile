@@ -4,7 +4,7 @@ Fluxmatix.Mobile is a Xamarin library (pcl) is primarily a dependency for (other
 
 What's in there:
 
-  * An abstraction for a cross platform caching system for simple data and settings
+  * An abstraction for a cross platform caching system for complex data object (POCO's) and user settings
   * An caching implementation using Xamarin's own cross platform SettingsPlugin 
   * Models and abstractions
   * An attempt to create a more simple approach to working with time zone's in c# (experimental!)
