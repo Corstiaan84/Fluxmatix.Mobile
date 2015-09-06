@@ -11,7 +11,7 @@ namespace Fluxmatix.Mobile.Cache
 		}
 
 		public static ISettings AppSettings
-		{
+		{ 
 			get
 			{
 				return CrossSettings.Current;
