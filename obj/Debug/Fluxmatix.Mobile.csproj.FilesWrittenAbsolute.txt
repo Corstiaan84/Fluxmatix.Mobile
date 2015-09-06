@@ -1,8 +1,0 @@
-/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Fluxmatix.Mobile/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
-/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Fluxmatix.Mobile/bin/Debug/Fluxmatix.Mobile.dll.mdb
-/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Fluxmatix.Mobile/bin/Debug/Fluxmatix.Mobile.dll
-/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Fluxmatix.Mobile/obj/Debug/Fluxmatix.Mobile.dll
-/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Fluxmatix.Mobile/obj/Debug/Fluxmatix.Mobile.dll.mdb
-/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Fluxmatix.Mobile/bin/Debug/Newtonsoft.Json.dll
-/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Fluxmatix.Mobile/bin/Debug/Refractored.Xam.Settings.dll
-/Users/corstiaanhesselink/Dropbox/Fluxmatix/repos/Fluxmatix.Mobile/bin/Debug/Refractored.Xam.Settings.Abstractions.dll
