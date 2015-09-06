@@ -37,7 +37,6 @@
     <Compile Include="SimpleTimesZones.cs" />
     <Compile Include="Models\TagItem.cs" />
     <Compile Include="Cache\XamarinSettingsPluginCacheStore.cs" />
-    <Compile Include="Helpers\Settings.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
   <ItemGroup>
