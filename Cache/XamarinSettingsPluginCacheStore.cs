@@ -6,7 +6,7 @@ namespace Fluxmatix.Mobile.Cache
 {
 	public class XamarinSettingsPluginCacheStore : IMobileCacheStore
 	{
-		public XamarinSettingsPluginCacheStore ()
+		public XamarinSettingsPluginCacheStore () 
 		{
 		}
 
